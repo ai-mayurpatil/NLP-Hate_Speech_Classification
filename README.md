@@ -23,7 +23,7 @@
 - Jinja2==3.1.2
 
 ## ⚙️ Setup
-### Project Workflows
+### 👨‍🏭 Project Workflows
 
 - constants
 - config_enity
@@ -32,7 +32,7 @@
 - pipeline
 - app.py
 
-### How to run
+### 👨‍💻 How to run
 ```bash
 conda create -n hate python=3.8 -y
 ```
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-### Gcloud cli
+### 💿 Gcloud cli
 https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
 
 ```bash
