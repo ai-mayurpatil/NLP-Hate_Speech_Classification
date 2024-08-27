@@ -1,11 +1,11 @@
 # Hate Speech Classification
-# 📝 Description
-    This repository contains code, models, and resources for building and evaluating a NLP model focused on [specific task, e.g., hate speech classification]. The model leverages advanced NLP techniques, including word embeddings, Recurrent Neural Networks (RNNs), and Transformer models like BERT, to accurately analyze and classify text data.
-# ⏳Dataset
+## 📝 Description
+This repository contains code, models, and resources for building and evaluating a NLP model focused on [specific task, e.g., hate speech classification]. The model leverages advanced NLP techniques, including word embeddings, Recurrent Neural Networks (RNNs), and Transformer models like BERT, to accurately analyze and classify text data.
+## ⏳Dataset
 - Download the dataset for custom training
 - https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
 
-# 🔗🖥️ Installation
+## 🔗🖥️ Installation
 ## 🛠️ Requirements
 - python 3.8+
 - numpy 
